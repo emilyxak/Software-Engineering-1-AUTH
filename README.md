@@ -1,4 +1,4 @@
-SoftEng1_ece_auth_2024
+SoftEng1  ECE AUTH 2024
 
 Software Engineering Course Project AUTH 2024
 
